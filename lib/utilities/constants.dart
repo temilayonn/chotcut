@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:animations/animations.dart';
-import 'package:chotcut/screens/signIn/signIn.dart';
-import 'package:chotcut/screens/signUp/signUp.dart';
+import 'package:chotcut/views/signIn/signIn.dart';
+import 'package:chotcut/views/signUp/signUp.dart';
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

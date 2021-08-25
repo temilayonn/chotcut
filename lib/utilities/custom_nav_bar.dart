@@ -1,11 +1,11 @@
 // ignore_for_file: prefer_const_constructors
 
-import 'package:chotcut/screens/basket/basket.dart';
-import 'package:chotcut/screens/favourites/favourites.dart';
-import 'package:chotcut/screens/home/homeScreen.dart';
-import 'package:chotcut/screens/profile/profile.dart';
 import 'package:chotcut/utilities/custom_page_route.dart';
 import 'package:chotcut/utilities/enums.dart';
+import 'package:chotcut/views/basket/basket.dart';
+import 'package:chotcut/views/favourites/favourites.dart';
+import 'package:chotcut/views/home/homeScreen.dart';
+import 'package:chotcut/views/profile/profile.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
