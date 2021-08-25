@@ -1,7 +1,6 @@
 // ignore_for_file: file_names, prefer_const_constructors, unnecessary_new, import_of_legacy_library_into_null_safe
 
 import 'package:chotcut/models/data.dart';
-import 'package:chotcut/notifications/notification.dart';
 
 import 'package:chotcut/utilities/constants.dart';
 import 'package:chotcut/utilities/custom_nav_bar.dart';
@@ -9,6 +8,7 @@ import 'package:chotcut/utilities/custom_page_route.dart';
 import 'package:chotcut/utilities/enums.dart';
 import 'package:chotcut/utilities/transformer.dart';
 import 'package:chotcut/views/cart/cart.dart';
+import 'package:chotcut/views/notifications/notification.dart';
 import 'package:chotcut/views/stores/stores_lists.dart';
 import 'package:chotcut/widgets/categoryGridView.dart';
 import 'package:chotcut/widgets/locationListView.dart';
